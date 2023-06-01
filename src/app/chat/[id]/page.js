@@ -276,7 +276,6 @@ const Page = async ({ params }) => {
                     <button
                         className="btn btn-success flex items-center justify-center rounded-xl text-white px-4 py-1 flex-shrink-0"
                     >
-                        <span>Send</span>
                         <span className="ml-2">
                             <svg
                                 className="w-4 h-4 transform rotate-45 -mt-px"
